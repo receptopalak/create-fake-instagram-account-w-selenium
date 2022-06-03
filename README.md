@@ -13,3 +13,10 @@
 - Onay kodu sayfasında fake mailin alındığı sayfadan mail beklenir ve onay kodu otomatik olarak onay kodu alanına yazılır.
 - Ve hesap hazır.
 
+## Proje Özeti.  
+
+````
+```
+Look! You can see my backticks.
+```
+````
