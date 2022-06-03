@@ -20,6 +20,6 @@
 #Çalıştır
 
 python login.py
-7
+
 ```
 ````
