@@ -13,13 +13,13 @@
 - Onay kodu sayfasında fake mailin alındığı sayfadan mail beklenir ve onay kodu otomatik olarak onay kodu alanına yazılır.
 - Ve hesap hazır.
 
-## Proje Özeti.  
+## Nasıl Çalıştırmalıyım.  
 
 ````
 ```
 #Çalıştır
 
 python login.py
-
+7
 ```
 ````
