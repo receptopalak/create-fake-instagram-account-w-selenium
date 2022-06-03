@@ -16,10 +16,8 @@
 ## Nasıl Çalıştırmalıyım.  
 
 ````
-```
 #Çalıştır
 
 python login.py
 
-```
 ````
